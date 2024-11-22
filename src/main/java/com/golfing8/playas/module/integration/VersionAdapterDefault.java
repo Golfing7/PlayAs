@@ -3,8 +3,6 @@ package com.golfing8.playas.module.integration;
 import com.golfing8.kcommon.nms.reflection.FieldHandle;
 import com.golfing8.kcommon.nms.reflection.FieldHandles;
 import com.golfing8.playas.PlayAsPlugin;
-import com.golfing8.playas.module.PlayAsModule;
-import com.golfing8.shade.com.cryptomorin.xseries.ReflectionUtils;
 import com.google.common.base.Charsets;
 import com.mojang.authlib.GameProfile;
 import net.minecraft.server.v1_8_R3.*;
