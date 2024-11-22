@@ -1,0 +1,6 @@
+name: PlayAs
+author: Golfing8
+version: 1.0
+main: com.golfing8.playas.PlayAsPlugin
+depend:
+  - KCommon
